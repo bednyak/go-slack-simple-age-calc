@@ -1,4 +1,4 @@
-# Go-Slack-Bot-File-Uploader
+# Go-Slack-Bot-Simple-Age-Calc
 
 ### Preparation
 
